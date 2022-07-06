@@ -1,0 +1,16 @@
+PODS:
+  - TabBarController (1.0.1)
+
+DEPENDENCIES:
+  - TabBarController
+
+SPEC REPOS:
+  trunk:
+    - TabBarController
+
+SPEC CHECKSUMS:
+  TabBarController: 764958ddf544a59829043f120c84c4a4d3d69dd8
+
+PODFILE CHECKSUM: 3ee386498aafaeb9f3ff718fab04f23d90f1a93f
+
+COCOAPODS: 1.11.3
